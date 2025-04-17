@@ -1,1 +1,1 @@
-web: gunicorn realstateapp.wsgi:application
+web: gunicorn project.wsgi:application
