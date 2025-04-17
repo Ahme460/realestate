@@ -171,4 +171,5 @@ cython_debug/
 .pypirc
 media/
 postgres/data
-state/migrations
+**/migrations/*.py
+**/migrations/*.pyc
