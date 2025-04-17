@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i$bswj-8nwl8edh4lf8fu9tn+##m%@_y^0^r55nif5ha8a8e-j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['realestate.up.railway.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['realestate-production-0c92.up.railway.app', 'localhost', '127.0.0.1']
 
 
 
