@@ -19,7 +19,7 @@ class UnitSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Unit
-        fields = ['id', 'project', 'type', 'bedrooms_count', 'area_min', 'area_max', 'is_fully_finished', 'price', 'media_unit','whatsapp','phone']
+        fields = ['id', 'project', 'type', 'bref' ,'bedrooms_count', 'area_min', 'area_max', 'is_fully_finished', 'price', 'media_unit','whatsapp','phone']
 
 
 class ProjectSerializer(serializers.ModelSerializer):
