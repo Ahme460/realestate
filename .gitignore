@@ -58,7 +58,7 @@ cover/
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
+
 db.sqlite3-journal
 
 # Flask stuff:
@@ -169,7 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-media/
+
 postgres/data
 **/migrations/*.py
 **/migrations/*.pyc
